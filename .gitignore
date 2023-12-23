@@ -1,1 +1,6 @@
-.github/**
+# .gitignore
+
+# Ignore large CSV files
+washington.csv
+chicago.csv
+new_york_city.csv
