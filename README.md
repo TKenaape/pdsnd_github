@@ -16,5 +16,6 @@ washington.csv
 new_york_city.csv
 
 ### Credits
+Udacity Video Lessons
 Udacity Lessons
 
